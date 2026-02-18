@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alexander\\Desktop\\CSharpOOP\\InheritanceExercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2249E70-2FC3-4800-AC7F-7FAC380007AD}|PlayersAndMonsters\\PlayersAndMonsters.csproj|c:\\users\\alexander\\desktop\\csharpoop\\inheritanceexercise\\playersandmonsters\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2249E70-2FC3-4800-AC7F-7FAC380007AD}|PlayersAndMonsters\\PlayersAndMonsters.csproj|solutionrelative:playersandmonsters\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2249E70-2FC3-4800-AC7F-7FAC380007AD}|PlayersAndMonsters\\PlayersAndMonsters.csproj|c:\\users\\alexander\\desktop\\csharpoop\\inheritanceexercise\\playersandmonsters\\playersandmonsters.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{D2249E70-2FC3-4800-AC7F-7FAC380007AD}|PlayersAndMonsters\\PlayersAndMonsters.csproj|solutionrelative:playersandmonsters\\playersandmonsters.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9930D442-7F88-406E-AAE0-9461DB0B329E}|Zoo\\Zoo.csproj|c:\\users\\alexander\\desktop\\csharpoop\\inheritanceexercise\\zoo\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9930D442-7F88-406E-AAE0-9461DB0B329E}|Zoo\\Zoo.csproj|solutionrelative:zoo\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9930D442-7F88-406E-AAE0-9461DB0B329E}|Zoo\\Zoo.csproj|c:\\users\\alexander\\desktop\\csharpoop\\inheritanceexercise\\zoo\\zoo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9930D442-7F88-406E-AAE0-9461DB0B329E}|Zoo\\Zoo.csproj|solutionrelative:zoo\\zoo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9930D442-7F88-406E-AAE0-9461DB0B329E}|Zoo\\Zoo.csproj|c:\\users\\alexander\\desktop\\csharpoop\\inheritanceexercise\\zoo\\zoo.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{9930D442-7F88-406E-AAE0-9461DB0B329E}|Zoo\\Zoo.csproj|solutionrelative:zoo\\zoo.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B017C35F-8072-418C-9ECE-29BC667A118C}|Person\\Person.csproj|c:\\users\\alexander\\desktop\\csharpoop\\inheritanceexercise\\person\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B017C35F-8072-418C-9ECE-29BC667A118C}|Person\\Person.csproj|solutionrelative:person\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayersAndMonsters",
+              "DocumentMoniker": "C:\\Users\\Alexander\\Desktop\\CSharpOOP\\InheritanceExercise\\PlayersAndMonsters\\PlayersAndMonsters.csproj",
+              "RelativeDocumentMoniker": "PlayersAndMonsters\\PlayersAndMonsters.csproj",
+              "ToolTip": "C:\\Users\\Alexander\\Desktop\\CSharpOOP\\InheritanceExercise\\PlayersAndMonsters\\PlayersAndMonsters.csproj",
+              "RelativeToolTip": "PlayersAndMonsters\\PlayersAndMonsters.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-18T09:11:29.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\Desktop\\CSharpOOP\\InheritanceExercise\\PlayersAndMonsters\\StartUp.cs",
+              "RelativeDocumentMoniker": "PlayersAndMonsters\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Alexander\\Desktop\\CSharpOOP\\InheritanceExercise\\PlayersAndMonsters\\StartUp.cs",
+              "RelativeToolTip": "PlayersAndMonsters\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T08:53:28.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Zoo",
+              "DocumentMoniker": "C:\\Users\\Alexander\\Desktop\\CSharpOOP\\InheritanceExercise\\Zoo\\Zoo.csproj",
+              "RelativeDocumentMoniker": "Zoo\\Zoo.csproj",
+              "ToolTip": "C:\\Users\\Alexander\\Desktop\\CSharpOOP\\InheritanceExercise\\Zoo\\Zoo.csproj",
+              "RelativeToolTip": "Zoo\\Zoo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-18T08:47:15.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Zoo",
+              "DocumentMoniker": "C:\\Users\\Alexander\\Desktop\\CSharpOOP\\InheritanceExercise\\Zoo\\Zoo.csproj",
+              "RelativeDocumentMoniker": "Zoo\\Zoo.csproj",
+              "ToolTip": "C:\\Users\\Alexander\\Desktop\\CSharpOOP\\InheritanceExercise\\Zoo\\Zoo.csproj",
+              "RelativeToolTip": "Zoo\\Zoo.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-18T08:49:22.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\Desktop\\CSharpOOP\\InheritanceExercise\\Zoo\\StartUp.cs",
+              "RelativeDocumentMoniker": "Zoo\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Alexander\\Desktop\\CSharpOOP\\InheritanceExercise\\Zoo\\StartUp.cs",
+              "RelativeToolTip": "Zoo\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T08:38:38.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\Desktop\\CSharpOOP\\InheritanceExercise\\Person\\StartUp.cs",
+              "RelativeDocumentMoniker": "Person\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Alexander\\Desktop\\CSharpOOP\\InheritanceExercise\\Person\\StartUp.cs",
+              "RelativeToolTip": "Person\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T08:20:11.163Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
