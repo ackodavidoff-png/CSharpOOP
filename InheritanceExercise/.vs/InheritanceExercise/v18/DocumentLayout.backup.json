@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\Alexander\\Desktop\\CSharpOOP\\InheritanceExercise\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{23920482-0658-4B8F-AADF-F7AC11015041}|Animals\\Animals.csproj|c:\\users\\alexander\\desktop\\csharpoop\\inheritanceexercise\\animals\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23920482-0658-4B8F-AADF-F7AC11015041}|Animals\\Animals.csproj|solutionrelative:animals\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23920482-0658-4B8F-AADF-F7AC11015041}|Animals\\Animals.csproj|c:\\users\\alexander\\desktop\\csharpoop\\inheritanceexercise\\animals\\animals.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{23920482-0658-4B8F-AADF-F7AC11015041}|Animals\\Animals.csproj|solutionrelative:animals\\animals.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B017C35F-8072-418C-9ECE-29BC667A118C}|Person\\Person.csproj|c:\\users\\alexander\\desktop\\csharpoop\\inheritanceexercise\\person\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B017C35F-8072-418C-9ECE-29BC667A118C}|Person\\Person.csproj|solutionrelative:person\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F792C3A4-D2E2-4C16-8D26-A556D32CDEBD}|NeedForSpeed\\NeedForSpeed.csproj|c:\\users\\alexander\\desktop\\csharpoop\\inheritanceexercise\\needforspeed\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F792C3A4-D2E2-4C16-8D26-A556D32CDEBD}|NeedForSpeed\\NeedForSpeed.csproj|solutionrelative:needforspeed\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F792C3A4-D2E2-4C16-8D26-A556D32CDEBD}|NeedForSpeed\\NeedForSpeed.csproj|c:\\users\\alexander\\desktop\\csharpoop\\inheritanceexercise\\needforspeed\\needforspeed.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{F792C3A4-D2E2-4C16-8D26-A556D32CDEBD}|NeedForSpeed\\NeedForSpeed.csproj|solutionrelative:needforspeed\\needforspeed.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D2249E70-2FC3-4800-AC7F-7FAC380007AD}|PlayersAndMonsters\\PlayersAndMonsters.csproj|c:\\users\\alexander\\desktop\\csharpoop\\inheritanceexercise\\playersandmonsters\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D2249E70-2FC3-4800-AC7F-7FAC380007AD}|PlayersAndMonsters\\PlayersAndMonsters.csproj|solutionrelative:playersandmonsters\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9930D442-7F88-406E-AAE0-9461DB0B329E}|Zoo\\Zoo.csproj|c:\\users\\alexander\\desktop\\csharpoop\\inheritanceexercise\\zoo\\zoo.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{9930D442-7F88-406E-AAE0-9461DB0B329E}|Zoo\\Zoo.csproj|solutionrelative:zoo\\zoo.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B017C35F-8072-418C-9ECE-29BC667A118C}|Person\\Person.csproj|c:\\users\\alexander\\desktop\\csharpoop\\inheritanceexercise\\person\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B017C35F-8072-418C-9ECE-29BC667A118C}|Person\\Person.csproj|solutionrelative:person\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,23 +50,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Animals",
+              "DocumentMoniker": "C:\\Users\\Alexander\\Desktop\\CSharpOOP\\InheritanceExercise\\Animals\\Animals.csproj",
+              "RelativeDocumentMoniker": "Animals\\Animals.csproj",
+              "ToolTip": "C:\\Users\\Alexander\\Desktop\\CSharpOOP\\InheritanceExercise\\Animals\\Animals.csproj",
+              "RelativeToolTip": "Animals\\Animals.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-19T08:21:36.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\Desktop\\CSharpOOP\\InheritanceExercise\\Animals\\StartUp.cs",
+              "RelativeDocumentMoniker": "Animals\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Alexander\\Desktop\\CSharpOOP\\InheritanceExercise\\Animals\\StartUp.cs",
+              "RelativeToolTip": "Animals\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T16:07:34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\Desktop\\CSharpOOP\\InheritanceExercise\\NeedForSpeed\\StartUp.cs",
+              "RelativeDocumentMoniker": "NeedForSpeed\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Alexander\\Desktop\\CSharpOOP\\InheritanceExercise\\NeedForSpeed\\StartUp.cs",
+              "RelativeToolTip": "NeedForSpeed\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGEAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T15:25:31.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "PlayersAndMonsters",
               "DocumentMoniker": "C:\\Users\\Alexander\\Desktop\\CSharpOOP\\InheritanceExercise\\PlayersAndMonsters\\PlayersAndMonsters.csproj",
               "RelativeDocumentMoniker": "PlayersAndMonsters\\PlayersAndMonsters.csproj",
               "ToolTip": "C:\\Users\\Alexander\\Desktop\\CSharpOOP\\InheritanceExercise\\PlayersAndMonsters\\PlayersAndMonsters.csproj",
               "RelativeToolTip": "PlayersAndMonsters\\PlayersAndMonsters.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-18T09:11:29.308Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-18T09:11:29.308Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "StartUp.cs",
               "DocumentMoniker": "C:\\Users\\Alexander\\Desktop\\CSharpOOP\\InheritanceExercise\\PlayersAndMonsters\\StartUp.cs",
               "RelativeDocumentMoniker": "PlayersAndMonsters\\StartUp.cs",
@@ -58,50 +114,23 @@
               "RelativeToolTip": "PlayersAndMonsters\\StartUp.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T08:53:28.877Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-18T08:53:28.877Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Zoo",
+              "DocumentIndex": 8,
+              "Title": "Zoo.csproj",
               "DocumentMoniker": "C:\\Users\\Alexander\\Desktop\\CSharpOOP\\InheritanceExercise\\Zoo\\Zoo.csproj",
               "RelativeDocumentMoniker": "Zoo\\Zoo.csproj",
               "ToolTip": "C:\\Users\\Alexander\\Desktop\\CSharpOOP\\InheritanceExercise\\Zoo\\Zoo.csproj",
               "RelativeToolTip": "Zoo\\Zoo.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-18T08:47:15.647Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Zoo",
-              "DocumentMoniker": "C:\\Users\\Alexander\\Desktop\\CSharpOOP\\InheritanceExercise\\Zoo\\Zoo.csproj",
-              "RelativeDocumentMoniker": "Zoo\\Zoo.csproj",
-              "ToolTip": "C:\\Users\\Alexander\\Desktop\\CSharpOOP\\InheritanceExercise\\Zoo\\Zoo.csproj",
-              "RelativeToolTip": "Zoo\\Zoo.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-18T08:49:22.735Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-18T08:47:15.647Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "StartUp.cs",
-              "DocumentMoniker": "C:\\Users\\Alexander\\Desktop\\CSharpOOP\\InheritanceExercise\\Zoo\\StartUp.cs",
-              "RelativeDocumentMoniker": "Zoo\\StartUp.cs",
-              "ToolTip": "C:\\Users\\Alexander\\Desktop\\CSharpOOP\\InheritanceExercise\\Zoo\\StartUp.cs",
-              "RelativeToolTip": "Zoo\\StartUp.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T08:38:38.315Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "StartUp.cs",
               "DocumentMoniker": "C:\\Users\\Alexander\\Desktop\\CSharpOOP\\InheritanceExercise\\Person\\StartUp.cs",
               "RelativeDocumentMoniker": "Person\\StartUp.cs",
@@ -111,6 +140,40 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-18T08:20:11.163Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Zoo",
+              "DocumentMoniker": "C:\\Users\\Alexander\\Desktop\\CSharpOOP\\InheritanceExercise\\Zoo\\Zoo.csproj",
+              "RelativeDocumentMoniker": "Zoo\\Zoo.csproj",
+              "ToolTip": "C:\\Users\\Alexander\\Desktop\\CSharpOOP\\InheritanceExercise\\Zoo\\Zoo.csproj",
+              "RelativeToolTip": "Zoo\\Zoo.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-18T08:49:22.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NeedForSpeed",
+              "DocumentMoniker": "C:\\Users\\Alexander\\Desktop\\CSharpOOP\\InheritanceExercise\\NeedForSpeed\\NeedForSpeed.csproj",
+              "RelativeDocumentMoniker": "NeedForSpeed\\NeedForSpeed.csproj",
+              "ToolTip": "C:\\Users\\Alexander\\Desktop\\CSharpOOP\\InheritanceExercise\\NeedForSpeed\\NeedForSpeed.csproj",
+              "RelativeToolTip": "NeedForSpeed\\NeedForSpeed.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-18T15:53:54.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\Desktop\\CSharpOOP\\InheritanceExercise\\Zoo\\StartUp.cs",
+              "RelativeDocumentMoniker": "Zoo\\StartUp.cs",
+              "ToolTip": "C:\\Users\\Alexander\\Desktop\\CSharpOOP\\InheritanceExercise\\Zoo\\StartUp.cs",
+              "RelativeToolTip": "Zoo\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T08:38:38.315Z"
             }
           ]
         }
