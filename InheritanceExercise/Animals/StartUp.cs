@@ -17,6 +17,10 @@ namespace Animals
                 try
                 {
                     string[] data = Console.ReadLine().Split(' ', StringSplitOptions.RemoveEmptyEntries);
+                    if (data.Length < 3)
+                    {
+                        throw new ArgumentException("Invalid input!");
+                    }
                     string name = data[0];
                     int age = int.Parse(data[1]);
                     string gender = data[2];
@@ -35,21 +39,21 @@ namespace Animals
                             Print(type, frog.ToString());
                             break;
                         case "Kitten":
-                            Animal kitten = new Kitten(name, age, gender);
+                            Animal kitten = new Kitten(name, age);
                             Print(type, kitten.ToString());
                             break;
                         case "Tomcat":
-                            Animal tomcat = new Tomcat(name, age, gender);
+                            Animal tomcat = new Tomcat(name, age);
                             Print(type, tomcat.ToString());
                             break;
                         default:
                             throw new ArgumentException("Invalid input!");
-                            break;
                     }
                 }
                 catch (Exception e)
                 {
-                    Console.WriteLine(e.Message);
+                    //Console.WriteLine(e.Message);
+                    Console.WriteLine("Invalid input!");
                 }
             }
         }
@@ -76,7 +80,7 @@ namespace Animals
             {
                 return this.name;
             }
-            set
+            private set
             {
                 if (string.IsNullOrEmpty(value))
                 {
@@ -91,9 +95,9 @@ namespace Animals
             {
                 return this.age;
             }
-            set
+            private set
             {
-                if (value <= 0)
+                if (value < 0)
                 {
                     throw new ArgumentException("Invalid input!");
                 }
@@ -106,7 +110,7 @@ namespace Animals
             {
                 return this.gender;
             }
-            set
+            private set
             {
                 if (string.IsNullOrEmpty(value))
                 {
@@ -123,7 +127,7 @@ namespace Animals
             StringBuilder sb = new StringBuilder();
             sb.AppendLine($"{this.Name} {this.Age} {this.Gender}");
             sb.AppendLine($"{this.ProduceSound()}");
-            return sb.ToString().TrimEnd();//base.ToString();
+            return sb.ToString().TrimEnd();//;base.ToString();
         }
     }
     public class Cat : Animal
@@ -139,9 +143,9 @@ namespace Animals
     }
     public class Kitten : Cat
     {
-        private const string KittenGender = "Female";
+        //private const string KittenGender = "Female";
         private const string Sound = "Meow";
-        public Kitten(string name, int age, string gender) : base(name, age, KittenGender)
+        public Kitten(string name, int age) : base(name, age, "Female")
         {
         }
         public override string ProduceSound() => Sound;
@@ -151,9 +155,9 @@ namespace Animals
     }
     public class Tomcat : Cat
     {
-        private const string KittenGender = "Male";
+        //private const string KittenGender = "Male";
         private const string Sound = "MEOW";
-        public Tomcat(string name, int age, string gender) : base(name, age, KittenGender)
+        public Tomcat(string name, int age) : base(name, age, "Male")
         {
         }
         public override string ProduceSound() => Sound;

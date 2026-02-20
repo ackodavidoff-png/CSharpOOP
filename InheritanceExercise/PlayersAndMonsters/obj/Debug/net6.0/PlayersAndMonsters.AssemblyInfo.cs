@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PlayersAndMonsters")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4aac5e9c0eb57a3966f0730bd3fee63744d73ac9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d4208bdbbfa07c83b8ba111f5130043614a4718")]
 [assembly: System.Reflection.AssemblyProductAttribute("PlayersAndMonsters")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PlayersAndMonsters")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
