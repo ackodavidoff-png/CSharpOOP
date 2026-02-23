@@ -1,0 +1,14 @@
+C:\Users\Alexander\Desktop\Адвансд\EncapsulationLab\SalaryIncrease\bin\Debug\net6.0\SalaryIncrease.exe
+C:\Users\Alexander\Desktop\Адвансд\EncapsulationLab\SalaryIncrease\bin\Debug\net6.0\SalaryIncrease.deps.json
+C:\Users\Alexander\Desktop\Адвансд\EncapsulationLab\SalaryIncrease\bin\Debug\net6.0\SalaryIncrease.runtimeconfig.json
+C:\Users\Alexander\Desktop\Адвансд\EncapsulationLab\SalaryIncrease\bin\Debug\net6.0\SalaryIncrease.dll
+C:\Users\Alexander\Desktop\Адвансд\EncapsulationLab\SalaryIncrease\bin\Debug\net6.0\SalaryIncrease.pdb
+C:\Users\Alexander\Desktop\Адвансд\EncapsulationLab\SalaryIncrease\obj\Debug\net6.0\SalaryIncrease.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\Desktop\Адвансд\EncapsulationLab\SalaryIncrease\obj\Debug\net6.0\SalaryIncrease.AssemblyInfoInputs.cache
+C:\Users\Alexander\Desktop\Адвансд\EncapsulationLab\SalaryIncrease\obj\Debug\net6.0\SalaryIncrease.AssemblyInfo.cs
+C:\Users\Alexander\Desktop\Адвансд\EncapsulationLab\SalaryIncrease\obj\Debug\net6.0\SalaryIncrease.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\Адвансд\EncapsulationLab\SalaryIncrease\obj\Debug\net6.0\SalaryIncrease.dll
+C:\Users\Alexander\Desktop\Адвансд\EncapsulationLab\SalaryIncrease\obj\Debug\net6.0\refint\SalaryIncrease.dll
+C:\Users\Alexander\Desktop\Адвансд\EncapsulationLab\SalaryIncrease\obj\Debug\net6.0\SalaryIncrease.pdb
+C:\Users\Alexander\Desktop\Адвансд\EncapsulationLab\SalaryIncrease\obj\Debug\net6.0\SalaryIncrease.genruntimeconfig.cache
+C:\Users\Alexander\Desktop\Адвансд\EncapsulationLab\SalaryIncrease\obj\Debug\net6.0\ref\SalaryIncrease.dll

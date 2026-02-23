@@ -1,0 +1,14 @@
+C:\Users\Alexander\Desktop\Адвансд\EncapsulationLab\Validation\bin\Debug\net6.0\Validation.exe
+C:\Users\Alexander\Desktop\Адвансд\EncapsulationLab\Validation\bin\Debug\net6.0\Validation.deps.json
+C:\Users\Alexander\Desktop\Адвансд\EncapsulationLab\Validation\bin\Debug\net6.0\Validation.runtimeconfig.json
+C:\Users\Alexander\Desktop\Адвансд\EncapsulationLab\Validation\bin\Debug\net6.0\Validation.dll
+C:\Users\Alexander\Desktop\Адвансд\EncapsulationLab\Validation\bin\Debug\net6.0\Validation.pdb
+C:\Users\Alexander\Desktop\Адвансд\EncapsulationLab\Validation\obj\Debug\net6.0\Validation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\Desktop\Адвансд\EncapsulationLab\Validation\obj\Debug\net6.0\Validation.AssemblyInfoInputs.cache
+C:\Users\Alexander\Desktop\Адвансд\EncapsulationLab\Validation\obj\Debug\net6.0\Validation.AssemblyInfo.cs
+C:\Users\Alexander\Desktop\Адвансд\EncapsulationLab\Validation\obj\Debug\net6.0\Validation.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\Адвансд\EncapsulationLab\Validation\obj\Debug\net6.0\Validation.dll
+C:\Users\Alexander\Desktop\Адвансд\EncapsulationLab\Validation\obj\Debug\net6.0\refint\Validation.dll
+C:\Users\Alexander\Desktop\Адвансд\EncapsulationLab\Validation\obj\Debug\net6.0\Validation.pdb
+C:\Users\Alexander\Desktop\Адвансд\EncapsulationLab\Validation\obj\Debug\net6.0\Validation.genruntimeconfig.cache
+C:\Users\Alexander\Desktop\Адвансд\EncapsulationLab\Validation\obj\Debug\net6.0\ref\Validation.dll

@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alexander\\Desktop\\\u0410\u0434\u0432\u0430\u043D\u0441\u0434\\EncapsulationExercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{807DD767-434A-5FCF-0098-0C43D3F19D4A}|ShoppingSpree\\ShoppingSpree.csproj|c:\\users\\alexander\\desktop\\\u0430\u0434\u0432\u0430\u043D\u0441\u0434\\encapsulationexercise\\shoppingspree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{807DD767-434A-5FCF-0098-0C43D3F19D4A}|ShoppingSpree\\ShoppingSpree.csproj|solutionrelative:shoppingspree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{807DD767-434A-5FCF-0098-0C43D3F19D4A}|ShoppingSpree\\ShoppingSpree.csproj|c:\\users\\alexander\\desktop\\\u0430\u0434\u0432\u0430\u043D\u0441\u0434\\encapsulationexercise\\shoppingspree\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{807DD767-434A-5FCF-0098-0C43D3F19D4A}|ShoppingSpree\\ShoppingSpree.csproj|solutionrelative:shoppingspree\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{807DD767-434A-5FCF-0098-0C43D3F19D4A}|ShoppingSpree\\ShoppingSpree.csproj|c:\\users\\alexander\\desktop\\\u0430\u0434\u0432\u0430\u043D\u0441\u0434\\encapsulationexercise\\shoppingspree\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{807DD767-434A-5FCF-0098-0C43D3F19D4A}|ShoppingSpree\\ShoppingSpree.csproj|solutionrelative:shoppingspree\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C799FAB9-30ED-E14E-2A66-93212ED9CAAA}|..\\..\\..\\Documents\\AnimalFarm_Skeleton_6.0\\AnimalFarm\\AnimalFarm.csproj|c:\\users\\alexander\\documents\\animalfarm_skeleton_6.0\\animalfarm\\models\\chicken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C799FAB9-30ED-E14E-2A66-93212ED9CAAA}|..\\..\\..\\Documents\\AnimalFarm_Skeleton_6.0\\AnimalFarm\\AnimalFarm.csproj|c:\\users\\alexander\\documents\\animalfarm_skeleton_6.0\\animalfarm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7DEF7CF-ABD4-AE13-8DB7-485900D75896}|ClassBoxData\\ClassBoxData.csproj|c:\\users\\alexander\\desktop\\\u0430\u0434\u0432\u0430\u043D\u0441\u0434\\encapsulationexercise\\classboxdata\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7DEF7CF-ABD4-AE13-8DB7-485900D75896}|ClassBoxData\\ClassBoxData.csproj|solutionrelative:classboxdata\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7DEF7CF-ABD4-AE13-8DB7-485900D75896}|ClassBoxData\\ClassBoxData.csproj|c:\\users\\alexander\\desktop\\\u0430\u0434\u0432\u0430\u043D\u0441\u0434\\encapsulationexercise\\classboxdata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7DEF7CF-ABD4-AE13-8DB7-485900D75896}|ClassBoxData\\ClassBoxData.csproj|solutionrelative:classboxdata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\Desktop\\\u0410\u0434\u0432\u0430\u043D\u0441\u0434\\EncapsulationExercise\\ShoppingSpree\\Product.cs",
+              "RelativeDocumentMoniker": "ShoppingSpree\\Product.cs",
+              "ToolTip": "C:\\Users\\Alexander\\Desktop\\\u0410\u0434\u0432\u0430\u043D\u0441\u0434\\EncapsulationExercise\\ShoppingSpree\\Product.cs",
+              "RelativeToolTip": "ShoppingSpree\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T14:04:43.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\Desktop\\\u0410\u0434\u0432\u0430\u043D\u0441\u0434\\EncapsulationExercise\\ShoppingSpree\\Person.cs",
+              "RelativeDocumentMoniker": "ShoppingSpree\\Person.cs",
+              "ToolTip": "C:\\Users\\Alexander\\Desktop\\\u0410\u0434\u0432\u0430\u043D\u0441\u0434\\EncapsulationExercise\\ShoppingSpree\\Person.cs",
+              "RelativeToolTip": "ShoppingSpree\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T14:04:33.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\Desktop\\\u0410\u0434\u0432\u0430\u043D\u0441\u0434\\EncapsulationExercise\\ShoppingSpree\\Program.cs",
+              "RelativeDocumentMoniker": "ShoppingSpree\\Program.cs",
+              "ToolTip": "C:\\Users\\Alexander\\Desktop\\\u0410\u0434\u0432\u0430\u043D\u0441\u0434\\EncapsulationExercise\\ShoppingSpree\\Program.cs",
+              "RelativeToolTip": "ShoppingSpree\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T14:04:19.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\Documents\\AnimalFarm_Skeleton_6.0\\AnimalFarm\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Documents\\AnimalFarm_Skeleton_6.0\\AnimalFarm\\Program.cs",
+              "ToolTip": "C:\\Users\\Alexander\\Documents\\AnimalFarm_Skeleton_6.0\\AnimalFarm\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\Documents\\AnimalFarm_Skeleton_6.0\\AnimalFarm\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T13:29:56.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Chicken.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\Documents\\AnimalFarm_Skeleton_6.0\\AnimalFarm\\Models\\Chicken.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Documents\\AnimalFarm_Skeleton_6.0\\AnimalFarm\\Models\\Chicken.cs",
+              "ToolTip": "C:\\Users\\Alexander\\Documents\\AnimalFarm_Skeleton_6.0\\AnimalFarm\\Models\\Chicken.cs",
+              "RelativeToolTip": "..\\..\\..\\Documents\\AnimalFarm_Skeleton_6.0\\AnimalFarm\\Models\\Chicken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T13:19:28.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Box.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\Desktop\\\u0410\u0434\u0432\u0430\u043D\u0441\u0434\\EncapsulationExercise\\ClassBoxData\\Box.cs",
+              "RelativeDocumentMoniker": "ClassBoxData\\Box.cs",
+              "ToolTip": "C:\\Users\\Alexander\\Desktop\\\u0410\u0434\u0432\u0430\u043D\u0441\u0434\\EncapsulationExercise\\ClassBoxData\\Box.cs",
+              "RelativeToolTip": "ClassBoxData\\Box.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T12:31:29.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\Desktop\\\u0410\u0434\u0432\u0430\u043D\u0441\u0434\\EncapsulationExercise\\ClassBoxData\\Program.cs",
+              "RelativeDocumentMoniker": "ClassBoxData\\Program.cs",
+              "ToolTip": "C:\\Users\\Alexander\\Desktop\\\u0410\u0434\u0432\u0430\u043D\u0441\u0434\\EncapsulationExercise\\ClassBoxData\\Program.cs",
+              "RelativeToolTip": "ClassBoxData\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T12:26:30.21Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

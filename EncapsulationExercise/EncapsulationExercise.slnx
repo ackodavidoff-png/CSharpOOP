@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../../../Documents/AnimalFarm_Skeleton_6.0/AnimalFarm/AnimalFarm.csproj" />
+  <Project Path="ClassBoxData/ClassBoxData.csproj" />
+  <Project Path="ShoppingSpree/ShoppingSpree.csproj" />
+</Solution>

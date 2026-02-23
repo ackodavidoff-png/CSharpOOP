@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="PersonsInfo/PersonsInfo.csproj" />
+  <Project Path="SalaryIncrease/SalaryIncrease.csproj" />
+  <Project Path="Validation/Validation.csproj" />
+</Solution>
