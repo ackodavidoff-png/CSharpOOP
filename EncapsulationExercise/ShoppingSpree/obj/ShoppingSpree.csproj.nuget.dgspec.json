@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alexander\\Desktop\\Адвансд\\EncapsulationExercise\\ShoppingSpree\\ShoppingSpree.csproj": {}
+    "C:\\Users\\Alexander\\Desktop\\CSharpOOP\\EncapsulationExercise\\ShoppingSpree\\ShoppingSpree.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alexander\\Desktop\\Адвансд\\EncapsulationExercise\\ShoppingSpree\\ShoppingSpree.csproj": {
+    "C:\\Users\\Alexander\\Desktop\\CSharpOOP\\EncapsulationExercise\\ShoppingSpree\\ShoppingSpree.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alexander\\Desktop\\Адвансд\\EncapsulationExercise\\ShoppingSpree\\ShoppingSpree.csproj",
+        "projectUniqueName": "C:\\Users\\Alexander\\Desktop\\CSharpOOP\\EncapsulationExercise\\ShoppingSpree\\ShoppingSpree.csproj",
         "projectName": "ShoppingSpree",
-        "projectPath": "C:\\Users\\Alexander\\Desktop\\Адвансд\\EncapsulationExercise\\ShoppingSpree\\ShoppingSpree.csproj",
+        "projectPath": "C:\\Users\\Alexander\\Desktop\\CSharpOOP\\EncapsulationExercise\\ShoppingSpree\\ShoppingSpree.csproj",
         "packagesPath": "C:\\Users\\Alexander\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alexander\\Desktop\\Адвансд\\EncapsulationExercise\\ShoppingSpree\\obj\\",
+        "outputPath": "C:\\Users\\Alexander\\Desktop\\CSharpOOP\\EncapsulationExercise\\ShoppingSpree\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

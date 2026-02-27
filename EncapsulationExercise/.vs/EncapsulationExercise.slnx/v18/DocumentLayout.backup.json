@@ -1,17 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Alexander\\Desktop\\\u0410\u0434\u0432\u0430\u043D\u0441\u0434\\EncapsulationExercise\\",
+  "WorkspaceRootPath": "C:\\Users\\Alexander\\Desktop\\CSharpOOP\\EncapsulationExercise\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{807DD767-434A-5FCF-0098-0C43D3F19D4A}|ShoppingSpree\\ShoppingSpree.csproj|c:\\users\\alexander\\desktop\\\u0430\u0434\u0432\u0430\u043D\u0441\u0434\\encapsulationexercise\\shoppingspree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{307ADF8C-9D04-40A4-A84D-F838C42CA308}|PizzaCalories\\PizzaCalories.csproj|c:\\users\\alexander\\desktop\\csharpoop\\encapsulationexercise\\pizzacalories\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{307ADF8C-9D04-40A4-A84D-F838C42CA308}|PizzaCalories\\PizzaCalories.csproj|solutionrelative:pizzacalories\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{307ADF8C-9D04-40A4-A84D-F838C42CA308}|PizzaCalories\\PizzaCalories.csproj|c:\\users\\alexander\\desktop\\csharpoop\\encapsulationexercise\\pizzacalories\\topping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{307ADF8C-9D04-40A4-A84D-F838C42CA308}|PizzaCalories\\PizzaCalories.csproj|solutionrelative:pizzacalories\\topping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{307ADF8C-9D04-40A4-A84D-F838C42CA308}|PizzaCalories\\PizzaCalories.csproj|c:\\users\\alexander\\desktop\\csharpoop\\encapsulationexercise\\pizzacalories\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{307ADF8C-9D04-40A4-A84D-F838C42CA308}|PizzaCalories\\PizzaCalories.csproj|solutionrelative:pizzacalories\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{307ADF8C-9D04-40A4-A84D-F838C42CA308}|PizzaCalories\\PizzaCalories.csproj|c:\\users\\alexander\\desktop\\csharpoop\\encapsulationexercise\\pizzacalories\\dough.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{307ADF8C-9D04-40A4-A84D-F838C42CA308}|PizzaCalories\\PizzaCalories.csproj|solutionrelative:pizzacalories\\dough.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{807DD767-434A-5FCF-0098-0C43D3F19D4A}|ShoppingSpree\\ShoppingSpree.csproj|c:\\users\\alexander\\desktop\\csharpoop\\encapsulationexercise\\shoppingspree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{807DD767-434A-5FCF-0098-0C43D3F19D4A}|ShoppingSpree\\ShoppingSpree.csproj|solutionrelative:shoppingspree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{807DD767-434A-5FCF-0098-0C43D3F19D4A}|ShoppingSpree\\ShoppingSpree.csproj|c:\\users\\alexander\\desktop\\\u0430\u0434\u0432\u0430\u043D\u0441\u0434\\encapsulationexercise\\shoppingspree\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{807DD767-434A-5FCF-0098-0C43D3F19D4A}|ShoppingSpree\\ShoppingSpree.csproj|c:\\users\\alexander\\desktop\\csharpoop\\encapsulationexercise\\shoppingspree\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{807DD767-434A-5FCF-0098-0C43D3F19D4A}|ShoppingSpree\\ShoppingSpree.csproj|solutionrelative:shoppingspree\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{807DD767-434A-5FCF-0098-0C43D3F19D4A}|ShoppingSpree\\ShoppingSpree.csproj|c:\\users\\alexander\\desktop\\\u0430\u0434\u0432\u0430\u043D\u0441\u0434\\encapsulationexercise\\shoppingspree\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{807DD767-434A-5FCF-0098-0C43D3F19D4A}|ShoppingSpree\\ShoppingSpree.csproj|c:\\users\\alexander\\desktop\\csharpoop\\encapsulationexercise\\shoppingspree\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{807DD767-434A-5FCF-0098-0C43D3F19D4A}|ShoppingSpree\\ShoppingSpree.csproj|solutionrelative:shoppingspree\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -21,11 +37,11 @@
       "AbsoluteMoniker": "D:0:0:{C799FAB9-30ED-E14E-2A66-93212ED9CAAA}|..\\..\\..\\Documents\\AnimalFarm_Skeleton_6.0\\AnimalFarm\\AnimalFarm.csproj|c:\\users\\alexander\\documents\\animalfarm_skeleton_6.0\\animalfarm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7DEF7CF-ABD4-AE13-8DB7-485900D75896}|ClassBoxData\\ClassBoxData.csproj|c:\\users\\alexander\\desktop\\\u0430\u0434\u0432\u0430\u043D\u0441\u0434\\encapsulationexercise\\classboxdata\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F7DEF7CF-ABD4-AE13-8DB7-485900D75896}|ClassBoxData\\ClassBoxData.csproj|c:\\users\\alexander\\desktop\\csharpoop\\encapsulationexercise\\classboxdata\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F7DEF7CF-ABD4-AE13-8DB7-485900D75896}|ClassBoxData\\ClassBoxData.csproj|solutionrelative:classboxdata\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7DEF7CF-ABD4-AE13-8DB7-485900D75896}|ClassBoxData\\ClassBoxData.csproj|c:\\users\\alexander\\desktop\\\u0430\u0434\u0432\u0430\u043D\u0441\u0434\\encapsulationexercise\\classboxdata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F7DEF7CF-ABD4-AE13-8DB7-485900D75896}|ClassBoxData\\ClassBoxData.csproj|c:\\users\\alexander\\desktop\\csharpoop\\encapsulationexercise\\classboxdata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F7DEF7CF-ABD4-AE13-8DB7-485900D75896}|ClassBoxData\\ClassBoxData.csproj|solutionrelative:classboxdata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -36,41 +52,91 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\Alexander\\Desktop\\\u0410\u0434\u0432\u0430\u043D\u0441\u0434\\EncapsulationExercise\\ShoppingSpree\\Product.cs",
-              "RelativeDocumentMoniker": "ShoppingSpree\\Product.cs",
-              "ToolTip": "C:\\Users\\Alexander\\Desktop\\\u0410\u0434\u0432\u0430\u043D\u0441\u0434\\EncapsulationExercise\\ShoppingSpree\\Product.cs",
-              "RelativeToolTip": "ShoppingSpree\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Pizza.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\Desktop\\CSharpOOP\\EncapsulationExercise\\PizzaCalories\\Pizza.cs",
+              "RelativeDocumentMoniker": "PizzaCalories\\Pizza.cs",
+              "ToolTip": "C:\\Users\\Alexander\\Desktop\\CSharpOOP\\EncapsulationExercise\\PizzaCalories\\Pizza.cs",
+              "RelativeToolTip": "PizzaCalories\\Pizza.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-23T14:04:43.11Z",
+              "WhenOpened": "2026-02-24T07:42:25.229Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Person.cs",
-              "DocumentMoniker": "C:\\Users\\Alexander\\Desktop\\\u0410\u0434\u0432\u0430\u043D\u0441\u0434\\EncapsulationExercise\\ShoppingSpree\\Person.cs",
-              "RelativeDocumentMoniker": "ShoppingSpree\\Person.cs",
-              "ToolTip": "C:\\Users\\Alexander\\Desktop\\\u0410\u0434\u0432\u0430\u043D\u0441\u0434\\EncapsulationExercise\\ShoppingSpree\\Person.cs",
-              "RelativeToolTip": "ShoppingSpree\\Person.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABGAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Topping.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\Desktop\\CSharpOOP\\EncapsulationExercise\\PizzaCalories\\Topping.cs",
+              "RelativeDocumentMoniker": "PizzaCalories\\Topping.cs",
+              "ToolTip": "C:\\Users\\Alexander\\Desktop\\CSharpOOP\\EncapsulationExercise\\PizzaCalories\\Topping.cs",
+              "RelativeToolTip": "PizzaCalories\\Topping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-23T14:04:33.26Z",
+              "WhenOpened": "2026-02-24T07:24:18.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dough.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\Desktop\\CSharpOOP\\EncapsulationExercise\\PizzaCalories\\Dough.cs",
+              "RelativeDocumentMoniker": "PizzaCalories\\Dough.cs",
+              "ToolTip": "C:\\Users\\Alexander\\Desktop\\CSharpOOP\\EncapsulationExercise\\PizzaCalories\\Dough.cs",
+              "RelativeToolTip": "PizzaCalories\\Dough.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T06:50:42.859Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Alexander\\Desktop\\\u0410\u0434\u0432\u0430\u043D\u0441\u0434\\EncapsulationExercise\\ShoppingSpree\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\Desktop\\CSharpOOP\\EncapsulationExercise\\PizzaCalories\\Program.cs",
+              "RelativeDocumentMoniker": "PizzaCalories\\Program.cs",
+              "ToolTip": "C:\\Users\\Alexander\\Desktop\\CSharpOOP\\EncapsulationExercise\\PizzaCalories\\Program.cs",
+              "RelativeToolTip": "PizzaCalories\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T06:48:19.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\Desktop\\CSharpOOP\\EncapsulationExercise\\ShoppingSpree\\Product.cs",
+              "RelativeDocumentMoniker": "ShoppingSpree\\Product.cs",
+              "ToolTip": "C:\\Users\\Alexander\\Desktop\\CSharpOOP\\EncapsulationExercise\\ShoppingSpree\\Product.cs",
+              "RelativeToolTip": "ShoppingSpree\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T14:04:43.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\Desktop\\CSharpOOP\\EncapsulationExercise\\ShoppingSpree\\Person.cs",
+              "RelativeDocumentMoniker": "ShoppingSpree\\Person.cs",
+              "ToolTip": "C:\\Users\\Alexander\\Desktop\\CSharpOOP\\EncapsulationExercise\\ShoppingSpree\\Person.cs",
+              "RelativeToolTip": "ShoppingSpree\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T14:04:33.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\Desktop\\CSharpOOP\\EncapsulationExercise\\ShoppingSpree\\Program.cs",
               "RelativeDocumentMoniker": "ShoppingSpree\\Program.cs",
-              "ToolTip": "C:\\Users\\Alexander\\Desktop\\\u0410\u0434\u0432\u0430\u043D\u0441\u0434\\EncapsulationExercise\\ShoppingSpree\\Program.cs",
+              "ToolTip": "C:\\Users\\Alexander\\Desktop\\CSharpOOP\\EncapsulationExercise\\ShoppingSpree\\Program.cs",
               "RelativeToolTip": "ShoppingSpree\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -79,7 +145,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Alexander\\Documents\\AnimalFarm_Skeleton_6.0\\AnimalFarm\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Documents\\AnimalFarm_Skeleton_6.0\\AnimalFarm\\Program.cs",
@@ -91,7 +157,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Chicken.cs",
               "DocumentMoniker": "C:\\Users\\Alexander\\Documents\\AnimalFarm_Skeleton_6.0\\AnimalFarm\\Models\\Chicken.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Documents\\AnimalFarm_Skeleton_6.0\\AnimalFarm\\Models\\Chicken.cs",
@@ -99,16 +165,15 @@
               "RelativeToolTip": "..\\..\\..\\Documents\\AnimalFarm_Skeleton_6.0\\AnimalFarm\\Models\\Chicken.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-23T13:19:28.078Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-23T13:19:28.078Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "Box.cs",
-              "DocumentMoniker": "C:\\Users\\Alexander\\Desktop\\\u0410\u0434\u0432\u0430\u043D\u0441\u0434\\EncapsulationExercise\\ClassBoxData\\Box.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\Desktop\\CSharpOOP\\EncapsulationExercise\\ClassBoxData\\Box.cs",
               "RelativeDocumentMoniker": "ClassBoxData\\Box.cs",
-              "ToolTip": "C:\\Users\\Alexander\\Desktop\\\u0410\u0434\u0432\u0430\u043D\u0441\u0434\\EncapsulationExercise\\ClassBoxData\\Box.cs",
+              "ToolTip": "C:\\Users\\Alexander\\Desktop\\CSharpOOP\\EncapsulationExercise\\ClassBoxData\\Box.cs",
               "RelativeToolTip": "ClassBoxData\\Box.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -116,11 +181,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Alexander\\Desktop\\\u0410\u0434\u0432\u0430\u043D\u0441\u0434\\EncapsulationExercise\\ClassBoxData\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\Desktop\\CSharpOOP\\EncapsulationExercise\\ClassBoxData\\Program.cs",
               "RelativeDocumentMoniker": "ClassBoxData\\Program.cs",
-              "ToolTip": "C:\\Users\\Alexander\\Desktop\\\u0410\u0434\u0432\u0430\u043D\u0441\u0434\\EncapsulationExercise\\ClassBoxData\\Program.cs",
+              "ToolTip": "C:\\Users\\Alexander\\Desktop\\CSharpOOP\\EncapsulationExercise\\ClassBoxData\\Program.cs",
               "RelativeToolTip": "ClassBoxData\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

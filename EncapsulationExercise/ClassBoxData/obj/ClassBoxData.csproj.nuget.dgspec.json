@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alexander\\Desktop\\Адвансд\\EncapsulationExercise\\ClassBoxData\\ClassBoxData.csproj": {}
+    "C:\\Users\\Alexander\\Desktop\\CSharpOOP\\EncapsulationExercise\\ClassBoxData\\ClassBoxData.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alexander\\Desktop\\Адвансд\\EncapsulationExercise\\ClassBoxData\\ClassBoxData.csproj": {
+    "C:\\Users\\Alexander\\Desktop\\CSharpOOP\\EncapsulationExercise\\ClassBoxData\\ClassBoxData.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alexander\\Desktop\\Адвансд\\EncapsulationExercise\\ClassBoxData\\ClassBoxData.csproj",
+        "projectUniqueName": "C:\\Users\\Alexander\\Desktop\\CSharpOOP\\EncapsulationExercise\\ClassBoxData\\ClassBoxData.csproj",
         "projectName": "ClassBoxData",
-        "projectPath": "C:\\Users\\Alexander\\Desktop\\Адвансд\\EncapsulationExercise\\ClassBoxData\\ClassBoxData.csproj",
+        "projectPath": "C:\\Users\\Alexander\\Desktop\\CSharpOOP\\EncapsulationExercise\\ClassBoxData\\ClassBoxData.csproj",
         "packagesPath": "C:\\Users\\Alexander\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alexander\\Desktop\\Адвансд\\EncapsulationExercise\\ClassBoxData\\obj\\",
+        "outputPath": "C:\\Users\\Alexander\\Desktop\\CSharpOOP\\EncapsulationExercise\\ClassBoxData\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="../../../Documents/AnimalFarm_Skeleton_6.0/AnimalFarm/AnimalFarm.csproj" />
   <Project Path="ClassBoxData/ClassBoxData.csproj" />
+  <Project Path="PizzaCalories/PizzaCalories.csproj" Id="307adf8c-9d04-40a4-a84d-f838c42ca308" />
   <Project Path="ShoppingSpree/ShoppingSpree.csproj" />
 </Solution>
