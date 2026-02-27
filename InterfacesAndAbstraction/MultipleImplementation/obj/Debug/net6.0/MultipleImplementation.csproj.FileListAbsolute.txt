@@ -1,0 +1,14 @@
+C:\Users\Alexander\Desktop\Адвансд\InterfacesAndAbstraction\MultipleImplementation\bin\Debug\net6.0\MultipleImplementation.exe
+C:\Users\Alexander\Desktop\Адвансд\InterfacesAndAbstraction\MultipleImplementation\bin\Debug\net6.0\MultipleImplementation.deps.json
+C:\Users\Alexander\Desktop\Адвансд\InterfacesAndAbstraction\MultipleImplementation\bin\Debug\net6.0\MultipleImplementation.runtimeconfig.json
+C:\Users\Alexander\Desktop\Адвансд\InterfacesAndAbstraction\MultipleImplementation\bin\Debug\net6.0\MultipleImplementation.dll
+C:\Users\Alexander\Desktop\Адвансд\InterfacesAndAbstraction\MultipleImplementation\bin\Debug\net6.0\MultipleImplementation.pdb
+C:\Users\Alexander\Desktop\Адвансд\InterfacesAndAbstraction\MultipleImplementation\obj\Debug\net6.0\MultipleImplementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\Desktop\Адвансд\InterfacesAndAbstraction\MultipleImplementation\obj\Debug\net6.0\MultipleImplementation.AssemblyInfoInputs.cache
+C:\Users\Alexander\Desktop\Адвансд\InterfacesAndAbstraction\MultipleImplementation\obj\Debug\net6.0\MultipleImplementation.AssemblyInfo.cs
+C:\Users\Alexander\Desktop\Адвансд\InterfacesAndAbstraction\MultipleImplementation\obj\Debug\net6.0\MultipleImplementation.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\Адвансд\InterfacesAndAbstraction\MultipleImplementation\obj\Debug\net6.0\MultipleImplementation.dll
+C:\Users\Alexander\Desktop\Адвансд\InterfacesAndAbstraction\MultipleImplementation\obj\Debug\net6.0\refint\MultipleImplementation.dll
+C:\Users\Alexander\Desktop\Адвансд\InterfacesAndAbstraction\MultipleImplementation\obj\Debug\net6.0\MultipleImplementation.pdb
+C:\Users\Alexander\Desktop\Адвансд\InterfacesAndAbstraction\MultipleImplementation\obj\Debug\net6.0\MultipleImplementation.genruntimeconfig.cache
+C:\Users\Alexander\Desktop\Адвансд\InterfacesAndAbstraction\MultipleImplementation\obj\Debug\net6.0\ref\MultipleImplementation.dll

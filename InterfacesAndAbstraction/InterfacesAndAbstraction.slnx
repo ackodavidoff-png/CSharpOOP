@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="DefineAnInterfaceIPerson/DefineAnInterfaceIPerson.csproj" />
+  <Project Path="MultipleImplementation/MultipleImplementation.csproj" />
+  <Project Path="Telephony/Telephony.csproj" />
+</Solution>
