@@ -1,0 +1,15 @@
+C:\Users\Александър\Documents\GitHub\CSharpOOP\ExceptionHandling\cards\bin\Debug\net10.0\cards.exe
+C:\Users\Александър\Documents\GitHub\CSharpOOP\ExceptionHandling\cards\bin\Debug\net10.0\cards.deps.json
+C:\Users\Александър\Documents\GitHub\CSharpOOP\ExceptionHandling\cards\bin\Debug\net10.0\cards.runtimeconfig.json
+C:\Users\Александър\Documents\GitHub\CSharpOOP\ExceptionHandling\cards\bin\Debug\net10.0\cards.dll
+C:\Users\Александър\Documents\GitHub\CSharpOOP\ExceptionHandling\cards\bin\Debug\net10.0\cards.pdb
+C:\Users\Александър\Documents\GitHub\CSharpOOP\ExceptionHandling\cards\obj\Debug\net10.0\cards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александър\Documents\GitHub\CSharpOOP\ExceptionHandling\cards\obj\Debug\net10.0\cards.AssemblyInfoInputs.cache
+C:\Users\Александър\Documents\GitHub\CSharpOOP\ExceptionHandling\cards\obj\Debug\net10.0\cards.AssemblyInfo.cs
+C:\Users\Александър\Documents\GitHub\CSharpOOP\ExceptionHandling\cards\obj\Debug\net10.0\cards.csproj.CoreCompileInputs.cache
+C:\Users\Александър\Documents\GitHub\CSharpOOP\ExceptionHandling\cards\obj\Debug\net10.0\cards.sourcelink.json
+C:\Users\Александър\Documents\GitHub\CSharpOOP\ExceptionHandling\cards\obj\Debug\net10.0\cards.dll
+C:\Users\Александър\Documents\GitHub\CSharpOOP\ExceptionHandling\cards\obj\Debug\net10.0\refint\cards.dll
+C:\Users\Александър\Documents\GitHub\CSharpOOP\ExceptionHandling\cards\obj\Debug\net10.0\cards.pdb
+C:\Users\Александър\Documents\GitHub\CSharpOOP\ExceptionHandling\cards\obj\Debug\net10.0\cards.genruntimeconfig.cache
+C:\Users\Александър\Documents\GitHub\CSharpOOP\ExceptionHandling\cards\obj\Debug\net10.0\ref\cards.dll

@@ -1,0 +1,15 @@
+C:\Users\Александър\Documents\GitHub\CSharpOOP\ExceptionHandling\SquareRoot\bin\Debug\net10.0\SquareRoot.exe
+C:\Users\Александър\Documents\GitHub\CSharpOOP\ExceptionHandling\SquareRoot\bin\Debug\net10.0\SquareRoot.deps.json
+C:\Users\Александър\Documents\GitHub\CSharpOOP\ExceptionHandling\SquareRoot\bin\Debug\net10.0\SquareRoot.runtimeconfig.json
+C:\Users\Александър\Documents\GitHub\CSharpOOP\ExceptionHandling\SquareRoot\bin\Debug\net10.0\SquareRoot.dll
+C:\Users\Александър\Documents\GitHub\CSharpOOP\ExceptionHandling\SquareRoot\bin\Debug\net10.0\SquareRoot.pdb
+C:\Users\Александър\Documents\GitHub\CSharpOOP\ExceptionHandling\SquareRoot\obj\Debug\net10.0\SquareRoot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александър\Documents\GitHub\CSharpOOP\ExceptionHandling\SquareRoot\obj\Debug\net10.0\SquareRoot.AssemblyInfoInputs.cache
+C:\Users\Александър\Documents\GitHub\CSharpOOP\ExceptionHandling\SquareRoot\obj\Debug\net10.0\SquareRoot.AssemblyInfo.cs
+C:\Users\Александър\Documents\GitHub\CSharpOOP\ExceptionHandling\SquareRoot\obj\Debug\net10.0\SquareRoot.csproj.CoreCompileInputs.cache
+C:\Users\Александър\Documents\GitHub\CSharpOOP\ExceptionHandling\SquareRoot\obj\Debug\net10.0\SquareRoot.sourcelink.json
+C:\Users\Александър\Documents\GitHub\CSharpOOP\ExceptionHandling\SquareRoot\obj\Debug\net10.0\SquareRoot.dll
+C:\Users\Александър\Documents\GitHub\CSharpOOP\ExceptionHandling\SquareRoot\obj\Debug\net10.0\refint\SquareRoot.dll
+C:\Users\Александър\Documents\GitHub\CSharpOOP\ExceptionHandling\SquareRoot\obj\Debug\net10.0\SquareRoot.pdb
+C:\Users\Александър\Documents\GitHub\CSharpOOP\ExceptionHandling\SquareRoot\obj\Debug\net10.0\SquareRoot.genruntimeconfig.cache
+C:\Users\Александър\Documents\GitHub\CSharpOOP\ExceptionHandling\SquareRoot\obj\Debug\net10.0\ref\SquareRoot.dll

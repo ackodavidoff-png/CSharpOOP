@@ -1,0 +1,15 @@
+C:\Users\Александър\Documents\GitHub\CSharpOOP\ExceptionHandling\EnterNumbers\bin\Debug\net10.0\EnterNumbers.exe
+C:\Users\Александър\Documents\GitHub\CSharpOOP\ExceptionHandling\EnterNumbers\bin\Debug\net10.0\EnterNumbers.deps.json
+C:\Users\Александър\Documents\GitHub\CSharpOOP\ExceptionHandling\EnterNumbers\bin\Debug\net10.0\EnterNumbers.runtimeconfig.json
+C:\Users\Александър\Documents\GitHub\CSharpOOP\ExceptionHandling\EnterNumbers\bin\Debug\net10.0\EnterNumbers.dll
+C:\Users\Александър\Documents\GitHub\CSharpOOP\ExceptionHandling\EnterNumbers\bin\Debug\net10.0\EnterNumbers.pdb
+C:\Users\Александър\Documents\GitHub\CSharpOOP\ExceptionHandling\EnterNumbers\obj\Debug\net10.0\EnterNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александър\Documents\GitHub\CSharpOOP\ExceptionHandling\EnterNumbers\obj\Debug\net10.0\EnterNumbers.AssemblyInfoInputs.cache
+C:\Users\Александър\Documents\GitHub\CSharpOOP\ExceptionHandling\EnterNumbers\obj\Debug\net10.0\EnterNumbers.AssemblyInfo.cs
+C:\Users\Александър\Documents\GitHub\CSharpOOP\ExceptionHandling\EnterNumbers\obj\Debug\net10.0\EnterNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Александър\Documents\GitHub\CSharpOOP\ExceptionHandling\EnterNumbers\obj\Debug\net10.0\EnterNumbers.sourcelink.json
+C:\Users\Александър\Documents\GitHub\CSharpOOP\ExceptionHandling\EnterNumbers\obj\Debug\net10.0\EnterNumbers.dll
+C:\Users\Александър\Documents\GitHub\CSharpOOP\ExceptionHandling\EnterNumbers\obj\Debug\net10.0\refint\EnterNumbers.dll
+C:\Users\Александър\Documents\GitHub\CSharpOOP\ExceptionHandling\EnterNumbers\obj\Debug\net10.0\EnterNumbers.pdb
+C:\Users\Александър\Documents\GitHub\CSharpOOP\ExceptionHandling\EnterNumbers\obj\Debug\net10.0\EnterNumbers.genruntimeconfig.cache
+C:\Users\Александър\Documents\GitHub\CSharpOOP\ExceptionHandling\EnterNumbers\obj\Debug\net10.0\ref\EnterNumbers.dll
