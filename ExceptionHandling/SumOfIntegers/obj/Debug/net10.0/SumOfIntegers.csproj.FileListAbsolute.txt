@@ -1,0 +1,15 @@
+C:\Users\Александър\Documents\GitHub\CSharpOOP\ExceptionHandling\SumOfIntegers\bin\Debug\net10.0\SumOfIntegers.exe
+C:\Users\Александър\Documents\GitHub\CSharpOOP\ExceptionHandling\SumOfIntegers\bin\Debug\net10.0\SumOfIntegers.deps.json
+C:\Users\Александър\Documents\GitHub\CSharpOOP\ExceptionHandling\SumOfIntegers\bin\Debug\net10.0\SumOfIntegers.runtimeconfig.json
+C:\Users\Александър\Documents\GitHub\CSharpOOP\ExceptionHandling\SumOfIntegers\bin\Debug\net10.0\SumOfIntegers.dll
+C:\Users\Александър\Documents\GitHub\CSharpOOP\ExceptionHandling\SumOfIntegers\bin\Debug\net10.0\SumOfIntegers.pdb
+C:\Users\Александър\Documents\GitHub\CSharpOOP\ExceptionHandling\SumOfIntegers\obj\Debug\net10.0\SumOfIntegers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александър\Documents\GitHub\CSharpOOP\ExceptionHandling\SumOfIntegers\obj\Debug\net10.0\SumOfIntegers.AssemblyInfoInputs.cache
+C:\Users\Александър\Documents\GitHub\CSharpOOP\ExceptionHandling\SumOfIntegers\obj\Debug\net10.0\SumOfIntegers.AssemblyInfo.cs
+C:\Users\Александър\Documents\GitHub\CSharpOOP\ExceptionHandling\SumOfIntegers\obj\Debug\net10.0\SumOfIntegers.csproj.CoreCompileInputs.cache
+C:\Users\Александър\Documents\GitHub\CSharpOOP\ExceptionHandling\SumOfIntegers\obj\Debug\net10.0\SumOfIntegers.sourcelink.json
+C:\Users\Александър\Documents\GitHub\CSharpOOP\ExceptionHandling\SumOfIntegers\obj\Debug\net10.0\SumOfIntegers.dll
+C:\Users\Александър\Documents\GitHub\CSharpOOP\ExceptionHandling\SumOfIntegers\obj\Debug\net10.0\refint\SumOfIntegers.dll
+C:\Users\Александър\Documents\GitHub\CSharpOOP\ExceptionHandling\SumOfIntegers\obj\Debug\net10.0\SumOfIntegers.pdb
+C:\Users\Александър\Documents\GitHub\CSharpOOP\ExceptionHandling\SumOfIntegers\obj\Debug\net10.0\SumOfIntegers.genruntimeconfig.cache
+C:\Users\Александър\Documents\GitHub\CSharpOOP\ExceptionHandling\SumOfIntegers\obj\Debug\net10.0\ref\SumOfIntegers.dll

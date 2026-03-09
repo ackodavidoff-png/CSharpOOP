@@ -1,0 +1,15 @@
+C:\Users\Александър\Documents\GitHub\CSharpOOP\ExceptionHandling\MoneyTransfer\bin\Debug\net10.0\MoneyTransfer.exe
+C:\Users\Александър\Documents\GitHub\CSharpOOP\ExceptionHandling\MoneyTransfer\bin\Debug\net10.0\MoneyTransfer.deps.json
+C:\Users\Александър\Documents\GitHub\CSharpOOP\ExceptionHandling\MoneyTransfer\bin\Debug\net10.0\MoneyTransfer.runtimeconfig.json
+C:\Users\Александър\Documents\GitHub\CSharpOOP\ExceptionHandling\MoneyTransfer\bin\Debug\net10.0\MoneyTransfer.dll
+C:\Users\Александър\Documents\GitHub\CSharpOOP\ExceptionHandling\MoneyTransfer\bin\Debug\net10.0\MoneyTransfer.pdb
+C:\Users\Александър\Documents\GitHub\CSharpOOP\ExceptionHandling\MoneyTransfer\obj\Debug\net10.0\MoneyTransfer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александър\Documents\GitHub\CSharpOOP\ExceptionHandling\MoneyTransfer\obj\Debug\net10.0\MoneyTransfer.AssemblyInfoInputs.cache
+C:\Users\Александър\Documents\GitHub\CSharpOOP\ExceptionHandling\MoneyTransfer\obj\Debug\net10.0\MoneyTransfer.AssemblyInfo.cs
+C:\Users\Александър\Documents\GitHub\CSharpOOP\ExceptionHandling\MoneyTransfer\obj\Debug\net10.0\MoneyTransfer.csproj.CoreCompileInputs.cache
+C:\Users\Александър\Documents\GitHub\CSharpOOP\ExceptionHandling\MoneyTransfer\obj\Debug\net10.0\MoneyTransfer.sourcelink.json
+C:\Users\Александър\Documents\GitHub\CSharpOOP\ExceptionHandling\MoneyTransfer\obj\Debug\net10.0\MoneyTransfer.dll
+C:\Users\Александър\Documents\GitHub\CSharpOOP\ExceptionHandling\MoneyTransfer\obj\Debug\net10.0\refint\MoneyTransfer.dll
+C:\Users\Александър\Documents\GitHub\CSharpOOP\ExceptionHandling\MoneyTransfer\obj\Debug\net10.0\MoneyTransfer.pdb
+C:\Users\Александър\Documents\GitHub\CSharpOOP\ExceptionHandling\MoneyTransfer\obj\Debug\net10.0\MoneyTransfer.genruntimeconfig.cache
+C:\Users\Александър\Documents\GitHub\CSharpOOP\ExceptionHandling\MoneyTransfer\obj\Debug\net10.0\ref\MoneyTransfer.dll

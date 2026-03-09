@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EnterNumbers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+27628b5378aeed71f1c38a8962f399fada49dc89")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6bed0456cf0b8fb4ece5883f4b7bd17698bcde56")]
 [assembly: System.Reflection.AssemblyProductAttribute("EnterNumbers")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EnterNumbers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

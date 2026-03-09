@@ -1,0 +1,15 @@
+C:\Users\Александър\Documents\GitHub\CSharpOOP\ExceptionHandling\PlayCatch\bin\Debug\net10.0\PlayCatch.exe
+C:\Users\Александър\Documents\GitHub\CSharpOOP\ExceptionHandling\PlayCatch\bin\Debug\net10.0\PlayCatch.deps.json
+C:\Users\Александър\Documents\GitHub\CSharpOOP\ExceptionHandling\PlayCatch\bin\Debug\net10.0\PlayCatch.runtimeconfig.json
+C:\Users\Александър\Documents\GitHub\CSharpOOP\ExceptionHandling\PlayCatch\bin\Debug\net10.0\PlayCatch.dll
+C:\Users\Александър\Documents\GitHub\CSharpOOP\ExceptionHandling\PlayCatch\bin\Debug\net10.0\PlayCatch.pdb
+C:\Users\Александър\Documents\GitHub\CSharpOOP\ExceptionHandling\PlayCatch\obj\Debug\net10.0\PlayCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александър\Documents\GitHub\CSharpOOP\ExceptionHandling\PlayCatch\obj\Debug\net10.0\PlayCatch.AssemblyInfoInputs.cache
+C:\Users\Александър\Documents\GitHub\CSharpOOP\ExceptionHandling\PlayCatch\obj\Debug\net10.0\PlayCatch.AssemblyInfo.cs
+C:\Users\Александър\Documents\GitHub\CSharpOOP\ExceptionHandling\PlayCatch\obj\Debug\net10.0\PlayCatch.csproj.CoreCompileInputs.cache
+C:\Users\Александър\Documents\GitHub\CSharpOOP\ExceptionHandling\PlayCatch\obj\Debug\net10.0\PlayCatch.sourcelink.json
+C:\Users\Александър\Documents\GitHub\CSharpOOP\ExceptionHandling\PlayCatch\obj\Debug\net10.0\PlayCatch.dll
+C:\Users\Александър\Documents\GitHub\CSharpOOP\ExceptionHandling\PlayCatch\obj\Debug\net10.0\refint\PlayCatch.dll
+C:\Users\Александър\Documents\GitHub\CSharpOOP\ExceptionHandling\PlayCatch\obj\Debug\net10.0\PlayCatch.pdb
+C:\Users\Александър\Documents\GitHub\CSharpOOP\ExceptionHandling\PlayCatch\obj\Debug\net10.0\PlayCatch.genruntimeconfig.cache
+C:\Users\Александър\Documents\GitHub\CSharpOOP\ExceptionHandling\PlayCatch\obj\Debug\net10.0\ref\PlayCatch.dll
