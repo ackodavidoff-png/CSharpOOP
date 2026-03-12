@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u044A\u0440\\Documents\\GitHub\\CSharpOOP\\SolidExercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F9F5CBF-712D-4B82-AF01-ED1C3C98AA45}|SolidExercise\\SolidExercise.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u044A\u0440\\documents\\github\\csharpoop\\solidexercise\\solidexercise\\commandinterpreter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F9F5CBF-712D-4B82-AF01-ED1C3C98AA45}|SolidExercise\\SolidExercise.csproj|solutionrelative:solidexercise\\commandinterpreter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F9F5CBF-712D-4B82-AF01-ED1C3C98AA45}|SolidExercise\\SolidExercise.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u044A\u0440\\documents\\github\\csharpoop\\solidexercise\\solidexercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F9F5CBF-712D-4B82-AF01-ED1C3C98AA45}|SolidExercise\\SolidExercise.csproj|solutionrelative:solidexercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F9F5CBF-712D-4B82-AF01-ED1C3C98AA45}|SolidExercise\\SolidExercise.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u044A\u0440\\documents\\github\\csharpoop\\solidexercise\\solidexercise\\appenders\\fileappender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F9F5CBF-712D-4B82-AF01-ED1C3C98AA45}|SolidExercise\\SolidExercise.csproj|solutionrelative:solidexercise\\appenders\\fileappender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F9F5CBF-712D-4B82-AF01-ED1C3C98AA45}|SolidExercise\\SolidExercise.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u044A\u0440\\documents\\github\\csharpoop\\solidexercise\\solidexercise\\core\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F9F5CBF-712D-4B82-AF01-ED1C3C98AA45}|SolidExercise\\SolidExercise.csproj|solutionrelative:solidexercise\\core\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F9F5CBF-712D-4B82-AF01-ED1C3C98AA45}|SolidExercise\\SolidExercise.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u044A\u0440\\documents\\github\\csharpoop\\solidexercise\\solidexercise\\interfaces\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F9F5CBF-712D-4B82-AF01-ED1C3C98AA45}|SolidExercise\\SolidExercise.csproj|solutionrelative:solidexercise\\interfaces\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F9F5CBF-712D-4B82-AF01-ED1C3C98AA45}|SolidExercise\\SolidExercise.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u044A\u0440\\documents\\github\\csharpoop\\solidexercise\\solidexercise\\appenders\\consoleappender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F9F5CBF-712D-4B82-AF01-ED1C3C98AA45}|SolidExercise\\SolidExercise.csproj|solutionrelative:solidexercise\\appenders\\consoleappender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F9F5CBF-712D-4B82-AF01-ED1C3C98AA45}|SolidExercise\\SolidExercise.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u044A\u0440\\documents\\github\\csharpoop\\solidexercise\\solidexercise\\files\\logfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F9F5CBF-712D-4B82-AF01-ED1C3C98AA45}|SolidExercise\\SolidExercise.csproj|solutionrelative:solidexercise\\files\\logfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F9F5CBF-712D-4B82-AF01-ED1C3C98AA45}|SolidExercise\\SolidExercise.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u044A\u0440\\documents\\github\\csharpoop\\solidexercise\\solidexercise\\layouts\\simplelayout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F9F5CBF-712D-4B82-AF01-ED1C3C98AA45}|SolidExercise\\SolidExercise.csproj|solutionrelative:solidexercise\\layouts\\simplelayout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F9F5CBF-712D-4B82-AF01-ED1C3C98AA45}|SolidExercise\\SolidExercise.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u044A\u0440\\documents\\github\\csharpoop\\solidexercise\\solidexercise\\layouts\\xmllayout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F9F5CBF-712D-4B82-AF01-ED1C3C98AA45}|SolidExercise\\SolidExercise.csproj|solutionrelative:solidexercise\\layouts\\xmllayout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F9F5CBF-712D-4B82-AF01-ED1C3C98AA45}|SolidExercise\\SolidExercise.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u044A\u0440\\documents\\github\\csharpoop\\solidexercise\\solidexercise\\interfaces\\ilogfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F9F5CBF-712D-4B82-AF01-ED1C3C98AA45}|SolidExercise\\SolidExercise.csproj|solutionrelative:solidexercise\\interfaces\\ilogfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F9F5CBF-712D-4B82-AF01-ED1C3C98AA45}|SolidExercise\\SolidExercise.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u044A\u0440\\documents\\github\\csharpoop\\solidexercise\\solidexercise\\enums\\reportlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F9F5CBF-712D-4B82-AF01-ED1C3C98AA45}|SolidExercise\\SolidExercise.csproj|solutionrelative:solidexercise\\enums\\reportlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F9F5CBF-712D-4B82-AF01-ED1C3C98AA45}|SolidExercise\\SolidExercise.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u044A\u0440\\documents\\github\\csharpoop\\solidexercise\\solidexercise\\interfaces\\iappender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F9F5CBF-712D-4B82-AF01-ED1C3C98AA45}|SolidExercise\\SolidExercise.csproj|solutionrelative:solidexercise\\interfaces\\iappender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F9F5CBF-712D-4B82-AF01-ED1C3C98AA45}|SolidExercise\\SolidExercise.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u044A\u0440\\documents\\github\\csharpoop\\solidexercise\\solidexercise\\interfaces\\ilayout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F9F5CBF-712D-4B82-AF01-ED1C3C98AA45}|SolidExercise\\SolidExercise.csproj|solutionrelative:solidexercise\\interfaces\\ilayout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F9F5CBF-712D-4B82-AF01-ED1C3C98AA45}|SolidExercise\\SolidExercise.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u044A\u0440\\documents\\github\\csharpoop\\solidexercise\\solidexercise\\solidexercise.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5F9F5CBF-712D-4B82-AF01-ED1C3C98AA45}|SolidExercise\\SolidExercise.csproj|solutionrelative:solidexercise\\solidexercise.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CommandInterpreter.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u044A\u0440\\Documents\\GitHub\\CSharpOOP\\SolidExercise\\SolidExercise\\CommandInterpreter.cs",
+              "RelativeDocumentMoniker": "SolidExercise\\CommandInterpreter.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u044A\u0440\\Documents\\GitHub\\CSharpOOP\\SolidExercise\\SolidExercise\\CommandInterpreter.cs",
+              "RelativeToolTip": "SolidExercise\\CommandInterpreter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T15:08:44.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LogFile.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u044A\u0440\\Documents\\GitHub\\CSharpOOP\\SolidExercise\\SolidExercise\\Files\\LogFile.cs",
+              "RelativeDocumentMoniker": "SolidExercise\\Files\\LogFile.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u044A\u0440\\Documents\\GitHub\\CSharpOOP\\SolidExercise\\SolidExercise\\Files\\LogFile.cs",
+              "RelativeToolTip": "SolidExercise\\Files\\LogFile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T08:31:22.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileAppender.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u044A\u0440\\Documents\\GitHub\\CSharpOOP\\SolidExercise\\SolidExercise\\Appenders\\FileAppender.cs",
+              "RelativeDocumentMoniker": "SolidExercise\\Appenders\\FileAppender.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u044A\u0440\\Documents\\GitHub\\CSharpOOP\\SolidExercise\\SolidExercise\\Appenders\\FileAppender.cs",
+              "RelativeToolTip": "SolidExercise\\Appenders\\FileAppender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T08:30:58.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConsoleAppender.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u044A\u0440\\Documents\\GitHub\\CSharpOOP\\SolidExercise\\SolidExercise\\Appenders\\ConsoleAppender.cs",
+              "RelativeDocumentMoniker": "SolidExercise\\Appenders\\ConsoleAppender.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u044A\u0440\\Documents\\GitHub\\CSharpOOP\\SolidExercise\\SolidExercise\\Appenders\\ConsoleAppender.cs",
+              "RelativeToolTip": "SolidExercise\\Appenders\\ConsoleAppender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T08:30:39.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "XmlLayout.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u044A\u0440\\Documents\\GitHub\\CSharpOOP\\SolidExercise\\SolidExercise\\Layouts\\XmlLayout.cs",
+              "RelativeDocumentMoniker": "SolidExercise\\Layouts\\XmlLayout.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u044A\u0440\\Documents\\GitHub\\CSharpOOP\\SolidExercise\\SolidExercise\\Layouts\\XmlLayout.cs",
+              "RelativeToolTip": "SolidExercise\\Layouts\\XmlLayout.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T08:29:07.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SimpleLayout.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u044A\u0440\\Documents\\GitHub\\CSharpOOP\\SolidExercise\\SolidExercise\\Layouts\\SimpleLayout.cs",
+              "RelativeDocumentMoniker": "SolidExercise\\Layouts\\SimpleLayout.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u044A\u0440\\Documents\\GitHub\\CSharpOOP\\SolidExercise\\SolidExercise\\Layouts\\SimpleLayout.cs",
+              "RelativeToolTip": "SolidExercise\\Layouts\\SimpleLayout.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T08:28:58.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ILogFile.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u044A\u0440\\Documents\\GitHub\\CSharpOOP\\SolidExercise\\SolidExercise\\Interfaces\\ILogFile.cs",
+              "RelativeDocumentMoniker": "SolidExercise\\Interfaces\\ILogFile.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u044A\u0440\\Documents\\GitHub\\CSharpOOP\\SolidExercise\\SolidExercise\\Interfaces\\ILogFile.cs",
+              "RelativeToolTip": "SolidExercise\\Interfaces\\ILogFile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T08:27:48.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ILogger.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u044A\u0440\\Documents\\GitHub\\CSharpOOP\\SolidExercise\\SolidExercise\\Interfaces\\ILogger.cs",
+              "RelativeDocumentMoniker": "SolidExercise\\Interfaces\\ILogger.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u044A\u0440\\Documents\\GitHub\\CSharpOOP\\SolidExercise\\SolidExercise\\Interfaces\\ILogger.cs",
+              "RelativeToolTip": "SolidExercise\\Interfaces\\ILogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T08:27:31.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IAppender.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u044A\u0440\\Documents\\GitHub\\CSharpOOP\\SolidExercise\\SolidExercise\\Interfaces\\IAppender.cs",
+              "RelativeDocumentMoniker": "SolidExercise\\Interfaces\\IAppender.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u044A\u0440\\Documents\\GitHub\\CSharpOOP\\SolidExercise\\SolidExercise\\Interfaces\\IAppender.cs",
+              "RelativeToolTip": "SolidExercise\\Interfaces\\IAppender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T08:27:19.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ReportLevel.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u044A\u0440\\Documents\\GitHub\\CSharpOOP\\SolidExercise\\SolidExercise\\Enums\\ReportLevel.cs",
+              "RelativeDocumentMoniker": "SolidExercise\\Enums\\ReportLevel.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u044A\u0440\\Documents\\GitHub\\CSharpOOP\\SolidExercise\\SolidExercise\\Enums\\ReportLevel.cs",
+              "RelativeToolTip": "SolidExercise\\Enums\\ReportLevel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T08:26:00.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u044A\u0440\\Documents\\GitHub\\CSharpOOP\\SolidExercise\\SolidExercise\\Core\\Logger.cs",
+              "RelativeDocumentMoniker": "SolidExercise\\Core\\Logger.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u044A\u0440\\Documents\\GitHub\\CSharpOOP\\SolidExercise\\SolidExercise\\Core\\Logger.cs",
+              "RelativeToolTip": "SolidExercise\\Core\\Logger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T08:24:36.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u044A\u0440\\Documents\\GitHub\\CSharpOOP\\SolidExercise\\SolidExercise\\Program.cs",
+              "RelativeDocumentMoniker": "SolidExercise\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u044A\u0440\\Documents\\GitHub\\CSharpOOP\\SolidExercise\\SolidExercise\\Program.cs",
+              "RelativeToolTip": "SolidExercise\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T08:23:15.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ILayout.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u044A\u0440\\Documents\\GitHub\\CSharpOOP\\SolidExercise\\SolidExercise\\Interfaces\\ILayout.cs",
+              "RelativeDocumentMoniker": "SolidExercise\\Interfaces\\ILayout.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u044A\u0440\\Documents\\GitHub\\CSharpOOP\\SolidExercise\\SolidExercise\\Interfaces\\ILayout.cs",
+              "RelativeToolTip": "SolidExercise\\Interfaces\\ILayout.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T08:26:55.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SolidExercise",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u044A\u0440\\Documents\\GitHub\\CSharpOOP\\SolidExercise\\SolidExercise\\SolidExercise.csproj",
+              "RelativeDocumentMoniker": "SolidExercise\\SolidExercise.csproj",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u044A\u0440\\Documents\\GitHub\\CSharpOOP\\SolidExercise\\SolidExercise\\SolidExercise.csproj",
+              "RelativeToolTip": "SolidExercise\\SolidExercise.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-10T08:28:26.652Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

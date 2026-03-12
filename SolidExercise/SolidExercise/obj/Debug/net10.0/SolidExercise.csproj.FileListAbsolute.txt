@@ -1,0 +1,15 @@
+C:\Users\Александър\Documents\GitHub\CSharpOOP\SolidExercise\SolidExercise\obj\Debug\net10.0\SolidExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александър\Documents\GitHub\CSharpOOP\SolidExercise\SolidExercise\obj\Debug\net10.0\SolidExercise.AssemblyInfoInputs.cache
+C:\Users\Александър\Documents\GitHub\CSharpOOP\SolidExercise\SolidExercise\obj\Debug\net10.0\SolidExercise.AssemblyInfo.cs
+C:\Users\Александър\Documents\GitHub\CSharpOOP\SolidExercise\SolidExercise\obj\Debug\net10.0\SolidExercise.csproj.CoreCompileInputs.cache
+C:\Users\Александър\Documents\GitHub\CSharpOOP\SolidExercise\SolidExercise\obj\Debug\net10.0\SolidExercise.sourcelink.json
+C:\Users\Александър\Documents\GitHub\CSharpOOP\SolidExercise\SolidExercise\bin\Debug\net10.0\SolidExercise.exe
+C:\Users\Александър\Documents\GitHub\CSharpOOP\SolidExercise\SolidExercise\bin\Debug\net10.0\SolidExercise.deps.json
+C:\Users\Александър\Documents\GitHub\CSharpOOP\SolidExercise\SolidExercise\bin\Debug\net10.0\SolidExercise.runtimeconfig.json
+C:\Users\Александър\Documents\GitHub\CSharpOOP\SolidExercise\SolidExercise\bin\Debug\net10.0\SolidExercise.dll
+C:\Users\Александър\Documents\GitHub\CSharpOOP\SolidExercise\SolidExercise\bin\Debug\net10.0\SolidExercise.pdb
+C:\Users\Александър\Documents\GitHub\CSharpOOP\SolidExercise\SolidExercise\obj\Debug\net10.0\SolidExercise.dll
+C:\Users\Александър\Documents\GitHub\CSharpOOP\SolidExercise\SolidExercise\obj\Debug\net10.0\refint\SolidExercise.dll
+C:\Users\Александър\Documents\GitHub\CSharpOOP\SolidExercise\SolidExercise\obj\Debug\net10.0\SolidExercise.pdb
+C:\Users\Александър\Documents\GitHub\CSharpOOP\SolidExercise\SolidExercise\obj\Debug\net10.0\SolidExercise.genruntimeconfig.cache
+C:\Users\Александър\Documents\GitHub\CSharpOOP\SolidExercise\SolidExercise\obj\Debug\net10.0\ref\SolidExercise.dll
