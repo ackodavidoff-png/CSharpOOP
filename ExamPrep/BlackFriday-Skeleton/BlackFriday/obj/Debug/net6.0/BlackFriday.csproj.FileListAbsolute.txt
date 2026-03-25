@@ -1,0 +1,14 @@
+C:\Users\Александър\Documents\BlackFriday-Skeleton\BlackFriday\bin\Debug\net6.0\BlackFriday.exe
+C:\Users\Александър\Documents\BlackFriday-Skeleton\BlackFriday\bin\Debug\net6.0\BlackFriday.deps.json
+C:\Users\Александър\Documents\BlackFriday-Skeleton\BlackFriday\bin\Debug\net6.0\BlackFriday.runtimeconfig.json
+C:\Users\Александър\Documents\BlackFriday-Skeleton\BlackFriday\bin\Debug\net6.0\BlackFriday.dll
+C:\Users\Александър\Documents\BlackFriday-Skeleton\BlackFriday\bin\Debug\net6.0\BlackFriday.pdb
+C:\Users\Александър\Documents\BlackFriday-Skeleton\BlackFriday\obj\Debug\net6.0\BlackFriday.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александър\Documents\BlackFriday-Skeleton\BlackFriday\obj\Debug\net6.0\BlackFriday.AssemblyInfoInputs.cache
+C:\Users\Александър\Documents\BlackFriday-Skeleton\BlackFriday\obj\Debug\net6.0\BlackFriday.AssemblyInfo.cs
+C:\Users\Александър\Documents\BlackFriday-Skeleton\BlackFriday\obj\Debug\net6.0\BlackFriday.csproj.CoreCompileInputs.cache
+C:\Users\Александър\Documents\BlackFriday-Skeleton\BlackFriday\obj\Debug\net6.0\BlackFriday.dll
+C:\Users\Александър\Documents\BlackFriday-Skeleton\BlackFriday\obj\Debug\net6.0\refint\BlackFriday.dll
+C:\Users\Александър\Documents\BlackFriday-Skeleton\BlackFriday\obj\Debug\net6.0\BlackFriday.pdb
+C:\Users\Александър\Documents\BlackFriday-Skeleton\BlackFriday\obj\Debug\net6.0\BlackFriday.genruntimeconfig.cache
+C:\Users\Александър\Documents\BlackFriday-Skeleton\BlackFriday\obj\Debug\net6.0\ref\BlackFriday.dll

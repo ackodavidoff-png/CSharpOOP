@@ -1,0 +1,14 @@
+C:\Users\Александър\Documents\NetTraderSystem-Skeleton\NetTraderSystem\bin\Debug\net6.0\NetTraderSystem.exe
+C:\Users\Александър\Documents\NetTraderSystem-Skeleton\NetTraderSystem\bin\Debug\net6.0\NetTraderSystem.deps.json
+C:\Users\Александър\Documents\NetTraderSystem-Skeleton\NetTraderSystem\bin\Debug\net6.0\NetTraderSystem.runtimeconfig.json
+C:\Users\Александър\Documents\NetTraderSystem-Skeleton\NetTraderSystem\bin\Debug\net6.0\NetTraderSystem.dll
+C:\Users\Александър\Documents\NetTraderSystem-Skeleton\NetTraderSystem\bin\Debug\net6.0\NetTraderSystem.pdb
+C:\Users\Александър\Documents\NetTraderSystem-Skeleton\NetTraderSystem\obj\Debug\net6.0\NetTraderSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александър\Documents\NetTraderSystem-Skeleton\NetTraderSystem\obj\Debug\net6.0\NetTraderSystem.AssemblyInfoInputs.cache
+C:\Users\Александър\Documents\NetTraderSystem-Skeleton\NetTraderSystem\obj\Debug\net6.0\NetTraderSystem.AssemblyInfo.cs
+C:\Users\Александър\Documents\NetTraderSystem-Skeleton\NetTraderSystem\obj\Debug\net6.0\NetTraderSystem.csproj.CoreCompileInputs.cache
+C:\Users\Александър\Documents\NetTraderSystem-Skeleton\NetTraderSystem\obj\Debug\net6.0\NetTraderSystem.dll
+C:\Users\Александър\Documents\NetTraderSystem-Skeleton\NetTraderSystem\obj\Debug\net6.0\refint\NetTraderSystem.dll
+C:\Users\Александър\Documents\NetTraderSystem-Skeleton\NetTraderSystem\obj\Debug\net6.0\NetTraderSystem.pdb
+C:\Users\Александър\Documents\NetTraderSystem-Skeleton\NetTraderSystem\obj\Debug\net6.0\NetTraderSystem.genruntimeconfig.cache
+C:\Users\Александър\Documents\NetTraderSystem-Skeleton\NetTraderSystem\obj\Debug\net6.0\ref\NetTraderSystem.dll

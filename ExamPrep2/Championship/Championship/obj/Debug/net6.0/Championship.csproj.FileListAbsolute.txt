@@ -1,0 +1,14 @@
+C:\Users\Александър\Documents\Championship\Championship\bin\Debug\net6.0\Championship.exe
+C:\Users\Александър\Documents\Championship\Championship\bin\Debug\net6.0\Championship.deps.json
+C:\Users\Александър\Documents\Championship\Championship\bin\Debug\net6.0\Championship.runtimeconfig.json
+C:\Users\Александър\Documents\Championship\Championship\bin\Debug\net6.0\Championship.dll
+C:\Users\Александър\Documents\Championship\Championship\bin\Debug\net6.0\Championship.pdb
+C:\Users\Александър\Documents\Championship\Championship\obj\Debug\net6.0\Championship.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александър\Documents\Championship\Championship\obj\Debug\net6.0\Championship.AssemblyInfoInputs.cache
+C:\Users\Александър\Documents\Championship\Championship\obj\Debug\net6.0\Championship.AssemblyInfo.cs
+C:\Users\Александър\Documents\Championship\Championship\obj\Debug\net6.0\Championship.csproj.CoreCompileInputs.cache
+C:\Users\Александър\Documents\Championship\Championship\obj\Debug\net6.0\Championship.dll
+C:\Users\Александър\Documents\Championship\Championship\obj\Debug\net6.0\refint\Championship.dll
+C:\Users\Александър\Documents\Championship\Championship\obj\Debug\net6.0\Championship.pdb
+C:\Users\Александър\Documents\Championship\Championship\obj\Debug\net6.0\Championship.genruntimeconfig.cache
+C:\Users\Александър\Documents\Championship\Championship\obj\Debug\net6.0\ref\Championship.dll

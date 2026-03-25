@@ -1,0 +1,14 @@
+C:\Users\Александър\Documents\AutoTrade\AutoTrade\bin\Debug\net6.0\AutoTrade.exe
+C:\Users\Александър\Documents\AutoTrade\AutoTrade\bin\Debug\net6.0\AutoTrade.deps.json
+C:\Users\Александър\Documents\AutoTrade\AutoTrade\bin\Debug\net6.0\AutoTrade.runtimeconfig.json
+C:\Users\Александър\Documents\AutoTrade\AutoTrade\bin\Debug\net6.0\AutoTrade.dll
+C:\Users\Александър\Documents\AutoTrade\AutoTrade\bin\Debug\net6.0\AutoTrade.pdb
+C:\Users\Александър\Documents\AutoTrade\AutoTrade\obj\Debug\net6.0\AutoTrade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александър\Documents\AutoTrade\AutoTrade\obj\Debug\net6.0\AutoTrade.AssemblyInfoInputs.cache
+C:\Users\Александър\Documents\AutoTrade\AutoTrade\obj\Debug\net6.0\AutoTrade.AssemblyInfo.cs
+C:\Users\Александър\Documents\AutoTrade\AutoTrade\obj\Debug\net6.0\AutoTrade.csproj.CoreCompileInputs.cache
+C:\Users\Александър\Documents\AutoTrade\AutoTrade\obj\Debug\net6.0\AutoTrade.dll
+C:\Users\Александър\Documents\AutoTrade\AutoTrade\obj\Debug\net6.0\refint\AutoTrade.dll
+C:\Users\Александър\Documents\AutoTrade\AutoTrade\obj\Debug\net6.0\AutoTrade.pdb
+C:\Users\Александър\Documents\AutoTrade\AutoTrade\obj\Debug\net6.0\AutoTrade.genruntimeconfig.cache
+C:\Users\Александър\Documents\AutoTrade\AutoTrade\obj\Debug\net6.0\ref\AutoTrade.dll
